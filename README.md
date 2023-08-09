@@ -2,7 +2,7 @@
 
 
 
-**Used Technologies:**
+**Technologies:**
 
 **-----------------------**
 
